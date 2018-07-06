@@ -1,7 +1,12 @@
 {
   "name": "app",
   "version": "0.0.1",
+  "scripts": {
+    "build": "node_modules/.bin/webpack-cli",
+    "start": "node_modules/.bin/http-server"
+  },
   "devDependencies": {
+    "http-server": "^0.11.1",
     "lib": "file:../lib",
     "source-map-loader": "^0.2.3",
     "webpack": "^4.15.1",
