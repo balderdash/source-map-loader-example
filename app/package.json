@@ -1,0 +1,10 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "devDependencies": {
+    "lib": "file:../lib",
+    "source-map-loader": "^0.2.3",
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}

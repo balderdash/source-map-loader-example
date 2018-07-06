@@ -1,0 +1,9 @@
+{
+  "name": "lib",
+  "version": "0.0.1",
+  "module": "index.js",
+  "devDependencies": {
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
