@@ -1,4 +1,4 @@
-Extremely simple example project using source-map-loader.
+Extremely simple example project using [source-map-loader](https://github.com/webpack-contrib/source-map-loader).
 
 Setup:
 ```
